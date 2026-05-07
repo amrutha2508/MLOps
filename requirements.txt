@@ -1,0 +1,7 @@
+mlflow == 2.20.1
+jupyter
+scikit-learn
+pandas
+seaborn
+hyperopt
+xgboost
